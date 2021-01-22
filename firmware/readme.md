@@ -1,6 +1,6 @@
 ## Screenshot 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/libre/lib0t/schema/schema.png" width="450" title="Screenshot">
+  <img src="https://raw.githubusercontent.com/libre/lib0t/main/schema/schema.png" width="450" title="Screenshot">
 </p>
 
 ## Support 433Mhz
