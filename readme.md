@@ -6,9 +6,9 @@ It supports CHACON (v1) and OTIO brand devices.
 - LCD which displays the time retrieved from the internet and information on temperature and ambient humidity level.
 - Rest button for setting the wifi (switches to AP mode).
 
-- [Schema](lib0t/schema/readme.md)
-- [3D Enclosure](lib0t/enclosure/readme.md)
-- [Firmware](lib0t/firmware/readme.md)
+- [Schema](schema/readme.md)
+- [3D Enclosure](enclosure/readme.md)
+- [Firmware](firmware/readme.md)
 
 ## Screenshot 
 <p align="center">
