@@ -12,7 +12,7 @@ It supports CHACON (v1) and OTIO brand devices.
 
 ## Screenshot 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/libre/lib0t/images/20200705_021503.jpg" width="450" title="Screenshot">
+  <img src="https://raw.githubusercontent.com/libre/lib0t/main/images/20200705_021503.jpg" width="450" title="Screenshot">
 </p>
 
 ## Materials
